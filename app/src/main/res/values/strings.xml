@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Logo Mania</string>
+
+    <string-array name="logo_file">
+        <item>logo1</item>
+        <item>logo2</item>
+        <item>logo3</item>
+        <item>logo4</item>
+        <item>logo5</item>
+    </string-array>
+
+    <string-array name="testing">
+        <item>hehe1</item>
+        <item>hehe2</item>
+        <item>hehe3</item>
+        <item>hehe4</item>
+        <item>hehe5</item>
+    </string-array>
+</resources>
