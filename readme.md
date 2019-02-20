@@ -1,1 +1,1 @@
-![Screenshot](https://ibb.co/mJ1Gc1j)
+![Screenshot](https://i.ibb.co/LSb8ZbF/Screenshot-2019-02-20-13-17-39-174-logomania-com-logomania.png)
